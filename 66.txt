@@ -1,0 +1,4 @@
+clone: clone your respository to yoyr local machine
+add: takes a modified file in your working directiory and places the moodified version in a staging area
+commit: takes everything from the stahing area and makes a permanant snapshot of the current state of your 
+repository that is associated with a unique identifier
